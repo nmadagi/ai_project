@@ -64,3 +64,7 @@ This project was the foundation for a series of increasingly advanced projects:
 ## 👤 Author
 
 **Nitin Madagi** | [GitHub](https://github.com/nmadagi) | [Portfolio](https://nmadagi.github.io/portfolio)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
