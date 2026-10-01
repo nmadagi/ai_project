@@ -1,12 +1,12 @@
-# 🤖 AI Project
+# AI Project
 
-> An introductory Jupyter Notebook exploring AI and machine learning concepts — the starting point of a growing portfolio at the intersection of finance and artificial intelligence.
+> An introductory Jupyter Notebook exploring AI and machine learning concepts - the starting point of a growing portfolio at the intersection of finance and artificial intelligence.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![ML](https://img.shields.io/badge/Machine%20Learning-Intro-green)
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project represents an early exploration into **AI and machine learning**, built as a foundation for more advanced work in quantitative finance, trading systems, and financial risk modeling.
 
@@ -18,7 +18,7 @@ It covers:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -38,17 +38,17 @@ jupyter notebook
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
-- **Pandas / NumPy** — Data processing
-- **Scikit-learn** — Machine learning models
-- **Matplotlib / Seaborn** — Visualizations
-- **Jupyter Notebook** — Interactive development
+- **Pandas / NumPy** - Data processing
+- **Scikit-learn** - Machine learning models
+- **Matplotlib / Seaborn** - Visualizations
+- **Jupyter Notebook** - Interactive development
 
 ---
 
-## 🚧 Related Projects
+## Related Projects
 
 This project was the foundation for a series of increasingly advanced projects:
 
@@ -61,10 +61,10 @@ This project was the foundation for a series of increasingly advanced projects:
 
 ---
 
-## 👤 Author
+## Author
 
 **Nitin Madagi** | [GitHub](https://github.com/nmadagi) | [Portfolio](https://nmadagi.github.io/portfolio)
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
